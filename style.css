@@ -405,14 +405,14 @@ section {
 /* ==========================================
    🖼️ THAY ẢNH PROJECT - Thêm class custom
    ========================================== */
-/* 
+
 .project-1 { 
-    background-image: url('../images/project1.jpg'); 
+    background-image: url('img/anh2.png'); 
     background-size: cover; 
     background-position: center;
 }
 
-.project-2 { 
+/* .project-2 { 
     background-image: url('../images/project2.jpg'); 
     background-size: cover; 
     background-position: center;
@@ -422,8 +422,8 @@ section {
     background-image: url('../images/project3.jpg'); 
     background-size: cover; 
     background-position: center;
-}
-*/
+} */
+
 
 .project-content {
     padding: 2rem;
